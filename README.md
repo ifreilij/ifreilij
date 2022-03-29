@@ -14,7 +14,16 @@ Estudiante de Henry con conocimiento en:
 -Express
 -SQL
 -PostgresSQL
+-Metodologia Scrum
+-Trello
 
+
+
+
+
+Contactame en:
+LinkedIn: linkedin.com/in/ignacio-freilij
+Mail : ignacio.freilij@gmail.com
 
 
 

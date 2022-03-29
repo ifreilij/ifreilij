@@ -3,10 +3,10 @@
                                                                   Full Stack Developer
 
 
-<>
+
 ####
 Estudiante de Henry con conocimiento en:
--JavaScript
+JavaScript
 -HTML
 -CSS
 -NodeJs
@@ -17,21 +17,20 @@ Estudiante de Henry con conocimiento en:
 -PostgresSQL
 -Metodologia Scrum
 -Trello
-<>
 
 
-<>
+
+
 ##
 Actualmente trabajando en mi Proyecto Final de Henry!
-<>
 
 
-<>
+
 #
 Contáctame en:
 LinkedIn: https://www.linkedin.com/in/ignacio-freilij/
 Mail : ignacio.freilij@gmail.com
-<>
+
 
 
 <!--

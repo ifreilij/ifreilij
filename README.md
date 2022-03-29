@@ -1,10 +1,10 @@
-### Hi there 👋 Soy Ignacio, nuevo en el mundo IT!
-                                                          Estudiante de Henry 
+          ### Hi there 👋 Soy Ignacio, nuevo en el mundo IT!
+
+                                                                  Full Stack Developer
 
 
-Full Stack Developer
 
-Conocimiento en:
+Estudiante de Henry con conocimiento en:
 -JavaScript
 -HTML
 -CSS

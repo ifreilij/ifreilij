@@ -6,16 +6,36 @@
 
 ####
 Estudiante de Henry con conocimiento en:
+
 JavaScript
+
+
+
 -HTML
+
+
+
 -CSS
+
+
 -NodeJs
+
+
 -React JS
+
+
 -Redux
+
+
 -Express
+
 -SQL
+
 -PostgresSQL
+
 -Metodologia Scrum
+
+
 -Trello
 
 

@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there 👋 Soy Ignacio, nuevo en el mundo IT!
+                                                          Estudiante de Henry 
+
+
+Full Stack Developer
+
+Conocimiento en:
+-JavaScript
+-HTML
+-CSS
+-NodeJs
+-React JS
+-Redux
+-Express
+-SQL
+-PostgresSQL
+
+
+
 
 <!--
 **ifreilij/ifreilij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

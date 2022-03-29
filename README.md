@@ -4,6 +4,7 @@
 
 
 <>
+####
 Estudiante de Henry con conocimiento en:
 -JavaScript
 -HTML
@@ -16,15 +17,21 @@ Estudiante de Henry con conocimiento en:
 -PostgresSQL
 -Metodologia Scrum
 -Trello
+<>
+
 
 <>
+##
 Actualmente trabajando en mi Proyecto Final de Henry!
+<>
 
 
-Contactame en:
+<>
+#
+Contáctame en:
 LinkedIn: https://www.linkedin.com/in/ignacio-freilij/
 Mail : ignacio.freilij@gmail.com
-
+<>
 
 
 <!--

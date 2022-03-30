@@ -1,6 +1,6 @@
-          ### Hi there 👋 Soy Ignacio, nuevo en el mundo IT!
+                   ### Hi there 👋 Soy Ignacio, nuevo en el mundo IT!
 
-                                                                  Full Stack Developer
+                                                           Full Stack Developer
 
 
 

@@ -5,27 +5,23 @@
 
 
 ####
-Estudiante de Henry con conocimiento en:
+Graduado en Soy henry, actualmente estudiante de la carrera Certified Tech Developer de Digital House con conocimiento en:
+
+-Java
+
+-SpringBoot
 
 -JavaScript
 
-
-
 -HTML
-
-
 
 -CSS
 
-
 -NodeJs
 
-
--React JS
-
+-ReactJS
 
 -Redux
-
 
 -Express
 
@@ -33,8 +29,9 @@ Estudiante de Henry con conocimiento en:
 
 -PostgresSQL
 
--Metodologia Scrum
+-Postman
 
+-Metodologia Scrum
 
 -Trello
 
@@ -42,7 +39,7 @@ Estudiante de Henry con conocimiento en:
 
 
 ##
-Actualmente trabajando en mi Proyecto Final de Henry!
+Actualmente cursando los ultimos 2 bimestres de la carrera Certified Tech Developer en Digital House
 
 
 
